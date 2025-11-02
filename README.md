@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning using SQL (Layoff Dataset)
+# 🧹 Data Cleaning using SQL
 
 ## 📘 Overview
 This project focuses on **data cleaning and preprocessing** using **SQL** on a real-world **Layoff Dataset**.  
